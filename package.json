@@ -1,0 +1,26 @@
+{
+  "name": "newresume",
+  "version": "1.0.0",
+  "description": "MERN Stack Resume",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "nodemon": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node server.js",
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ertemishakk/resume-mern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ertemishakk/resume-mern/issues"
+  },
+  "homepage": "https://github.com/ertemishakk/resume-mern#readme"
+}
