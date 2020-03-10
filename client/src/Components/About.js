@@ -18,7 +18,7 @@ class About extends Component {
 
         return (
             <div className='bg-dark text-light text-center py-5' id='about'>
-                <Row className='no-gutters'>
+                <Row className='no-gutters pt-5'>
                     <Col md='4' className=''>
                         <Slide left>
                             <img src={me} alt='self portrait' className='rounded-circle my-auto px-3 py-3' style={{ height: '200px' }} />
