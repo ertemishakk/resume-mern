@@ -20,7 +20,7 @@
   
   .box:hover .overlay {
     height: 100%;
-    opacity: 0.6;
+    opacity: 0.7;
     
   }
   
@@ -42,6 +42,11 @@
     bottom: 0;
     padding-bottom: 25px;
     left: 50%;
+}
+
+.is-active{
+color:rgb(243,186,11) !important;
+display: block;
 }
 
 

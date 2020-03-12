@@ -20,8 +20,6 @@ app.post('/contact', (req, res) => {
     if (!isValid) {
         return res.status(400).json(errors)
     }
-    console.log(keys.sendGridAPI)
-    console.log(req.body.message)
 
     sgMail.setApiKey(keys.sendGridAPI)
 

@@ -35,7 +35,11 @@ class Contact extends Component {
                 this.setState({
                     success: res.data.success,
                     loading: false,
-                    errors: {}
+                    errors: {},
+                    name: '',
+                    email: '',
+                    subject: '',
+                    message: ''
                 })
             })
             .catch(err => {

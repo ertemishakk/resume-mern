@@ -2,7 +2,7 @@
 
 # dependencies
 /node_modules
-/config/keys_dev
+/config/keys_dev.js
 
 # testing
 /coverage
