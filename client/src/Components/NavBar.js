@@ -107,12 +107,16 @@ class NavBar extends Component {
                     <Row className='pt-5 px-5'>
                         <Col className='text-center  main' >
                             <Flip left cascade>
-                                <h1 className=' display-3 text-light font-weight-bold'>I'm Ishak Ertem.</h1>
+                                <h1 className=' display-3 text-light font-weight-bold'>Ishak Ertem</h1>
                                 <h5 className='text-white-50 shortdesc' style={{
                                     lineHeight: '35px'
-                                }}>Hi there and welcome to my page. I'm a self-taught Junior Front End Developer based
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            in Melbourne. I currently develop Full-Stack single page applications using
+                                }}>Self-taught Junior Front End Developer </h5>
+
+
+                                <h5 className='text-white-50 shortdesc'>   I develop Full-Stack single page applications using
                                 mern stack.</h5>
+
+                                <h5 className='text-white-50 shortdesc'>Based in Melbourne</h5>
                                 <Button outline color='warning' className='mt-2'>
                                     <ScrollIntoView selector='#portfolio'>
                                         View my work
