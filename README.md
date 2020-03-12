@@ -7,11 +7,13 @@
 ___
 This is a react front end and node,express backend personal resume template. I've created this portfolio website only using react in the
 frontend with some npm modules. This modules include
-### 1. react-hamburger-menu -> to have an animated hamburger menu on mobile devices or small screens.
-### 2. react-reveal -> to have animated component mounts.
-### 3. react-scrollspy-nav -> to be able to smooth scroll using navigation links. most people use jquery, i think its an easy way to implement with no jquery required.
-### 4.reactstrap -> used mainly in the frontend.
-### 5.contact form informations are passed to backend using bodyparser and sendgrid to send emails to personal accounts.
+ 1. react-hamburger-menu -> to have an animated hamburger menu on mobile devices or small screens.
+ 2. react-reveal -> to have animated component mounts.
+ 3. react-scrollspy-nav -> to be able to smooth scroll using navigation links. most people use jquery, i think its an easy way to implement with no jquery required.
+ 
+ 4.reactstrap -> used mainly in the frontend.
+ 
+ 5.contact form informations are passed to backend using bodyparser and sendgrid to send emails to personal accounts.
 
 # Make It Yours
 
