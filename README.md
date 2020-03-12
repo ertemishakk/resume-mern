@@ -40,5 +40,5 @@ To personalize the website, open up all components and replace your info with mi
 Feel free to make any changes and use it as you wish. It's yours now.
 
 ## 7. Own It
-When you're all done, run npm run dev aand you'll see your new personal resume website! Congratulations!
+When you're all done, run npm run dev aand you'll see your new personal resume website! Congratulations! Don't forget to star this repo!
 
